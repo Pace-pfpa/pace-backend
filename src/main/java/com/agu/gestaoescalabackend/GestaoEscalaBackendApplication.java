@@ -8,6 +8,7 @@ public class GestaoEscalaBackendApplication {
 
 	public static void main(String... args) {
 		SpringApplication.run(GestaoEscalaBackendApplication.class, args);
+		System.out.printLn("teste 123");
 	}
 
 }
